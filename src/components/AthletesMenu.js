@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-route';
+import { Link } from 'react-router';
 
 export default class AthletesMenu extends React.Component {
   render() {
